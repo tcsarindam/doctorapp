@@ -1,0 +1,11 @@
+.btn {
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;    
+    margin: 2px 0;
+    border: none;
+    
+}
+.btn-print {
+    background-color: #ffa93c;
+}
